@@ -1,0 +1,80 @@
+@import url("https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap");
+
+.bg-container {
+    background-image: linear-gradient(to right, #f2ebfe, #dac0ff);
+    padding: 30px;
+    /* height: 100vh; */
+}
+
+.heading {
+    color: #690cb0;
+    font-weight: bold;
+    font-size: 45px;
+    margin-bottom: 20px;
+}
+
+.para {
+    color: #3e4c59;
+    font-weight: 500;
+}
+
+.clock-img {
+    width: 60px;
+    height: 60px;
+}
+
+.timer {
+    color: #323f4b;
+    font-size: 40px;
+}
+
+.seconds {
+    color: #3e4c59;
+    padding-top: 25px;
+    font-weight: 500;
+}
+
+.card {
+    border-style: solid;
+    border-width: 2px;
+    border-radius: 10px;
+    border-color: #9aa5b1;
+    background-color: #f3eaff;
+    padding: 20px;
+}
+
+.submit-btn {
+    background-color: #690cb0;
+    color: white;
+    height: 35px;
+    width: 80px;
+    border-width: 0px;
+    border-radius: 10px;
+}
+
+.reset-btn {
+    background-color: white;
+    color: #323f4b;
+    font-weight: bold;
+    border-radius: 10px;
+    border-width: 0px;
+    height: 35px;
+    width: 80px;
+}
+
+#quoteDisplay {
+    color: #323f4b;
+    font-size: 20px;
+    font-weight: 500;
+}
+
+#quoteInput {
+    color: #323f4b;
+    font-weight: 500;
+}
+
+#result {
+    color: #3e4c59;
+    font-size: 20px;
+    font-weight: 500;
+}
